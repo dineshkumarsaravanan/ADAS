@@ -1,9 +1,1 @@
-# ADAS
-ADAS or Advanced Driver Assistance Systems, are a family of safety systems that designed to work together to automate and enhance vehicle safety by alerting the driver to potential problems and avoid collisions
-
-
-
-
-Final Output of LDWS
-
-
+Advanced Drive Assistance Systems (ADAS)![image](https://user-images.githubusercontent.com/64460447/114039552-77618080-98a0-11eb-8644-08a1e551fff4.png)
